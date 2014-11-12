@@ -22,9 +22,9 @@ from UserToken import UserToken
 from google.appengine.api import urlfetch
 
 # CHANGE these values to your own
-k_client_id = ""
-k_client_secret = ""
-k_client_callback_url = ""
+k_client_id = "1ef7fb311cae4895868f5474cd819ac7"
+k_client_secret = "0479b3dafda94ded83e60302a5532205"
+k_client_callback_url = "acoustic-bridge-761://callback"
 
 # Spotify endpoints
 k_spotify_accounts_endpoint = "https://accounts.spotify.com"
